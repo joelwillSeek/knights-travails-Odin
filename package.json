@@ -1,0 +1,13 @@
+{
+  "name": "kights-path-odin",
+  "version": "1.0.0",
+  "source": "/src/template.html",
+  "license": "MIT",
+  "scripts": {
+    "dev": "parcel",
+    "build": "parcel build"
+  },
+  "dependencies": {
+    "parcel": "^2.9.3"
+  }
+}
